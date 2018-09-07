@@ -1,6 +1,9 @@
 ![Mithril Name Service](./assets/title.jpg)
 
-> 📖🔍 Documents of the Storm Name Service.
+> 📖🔍 Documents of the Mithril Name Service.
+
+## 💡 What is Mithril?
+Mithril is a social mining platform where users earn token by creating content on the blockchain.
 
 ## 💡 What is BNS?
 BNS – or blockchain name system – is the protocol on the internet that turns human-comprehensible decentralized website names such as 'website.mith' or 'mywebsite.eth' into addresses understandable by decentralized network machines.
