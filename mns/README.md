@@ -1,4 +1,4 @@
-# TNS
+# MNS
 
 Implementations for smart contracts for the Quarkchain Name Service.
 
@@ -37,12 +37,12 @@ Run solidity coverage
 ./node_modules/.bin/solidity-coverage
 ```
 
-## TNSRegistry.sol
-Implementation of the TNS registry, the central contract used to look up resolvers and owners for domains.
+## MNSRegistry.sol
+Implementation of the MNS registry, the central contract used to look up resolvers and owners for domains.
 
-## TNSRegistrar.sol
-Implementation of the TNS registrar, which issues (sub-)domains to the first account to request them.
+## MNSRegistrar.sol
+Implementation of the MNS registrar, which issues (sub-)domains to the first account to request them.
 
-## TNSResolver.sol
-Implementation of the TNS resolver that allows the owner of any domain to configure how its name should resolve.
+## MNSResolver.sol
+Implementation of the MNS resolver that allows the owner of any domain to configure how its name should resolve.
 
