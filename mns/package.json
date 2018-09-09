@@ -1,0 +1,32 @@
+{
+  "name": "MNS",
+  "version": "0.0.1",
+  "description": "Implementations of MNS",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PortalNetwork/mns.git"
+  },
+  "keywords": [
+    "MNS"
+  ],
+  "author": "Portal Network",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PortalNetwork/mns/issues"
+  },
+  "homepage": "https://github.com/PortalNetwork/mns#readme",
+  "dependencies": {
+    "eth-ens-namehash": "^2.0.8",
+    "truffle": "^4.1.14",
+    "web3": "^0.20.2"
+  },
+  "devDependencies": {
+    "solidity-coverage": "^0.5.11"
+  }
+}
