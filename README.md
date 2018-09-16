@@ -15,7 +15,12 @@ MNS is the Mithril Name Service, a distributed, open, and extensible naming syst
 ## 📚 Documents
 
 #### Table of Contents
--  [Introduction](./docs/INTRODUCTION.md)
+- [Introduction](./docs/INTRODUCTION.md)
+- [Implementation](./docs/IMPLEMENTATION.md)
+    - [Registry](./docs/REGISTRY.md)
+    - [Registrar](./docs/REGISTRAR.md)
+    - [Resolver](./docs/RESOLVER.md)
+- [Integration](./docs/INTEGRATION.md)
 
 ## 📣 Contributing
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to help out.
